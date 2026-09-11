@@ -23,7 +23,8 @@ if STRING_SESSION:
         app.stop()
     
 else:
-    bot.run()
+    bot.start()
+    'idle()'
 
 
 
