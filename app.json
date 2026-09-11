@@ -8,13 +8,13 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": "",
+            "value": "38300342",
             "required": true
         },
         
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": "",
+            "value": "f3222d77b6224b90840c73b80a5c14e6",
             "required": true
         },
         
@@ -26,7 +26,7 @@
         
         "ADMIN": {
             "description":"Add Your User ID, If Multiple Is Use Space To Split",
-            "value": "",
+            "value": "8704705814",
             "required": true
         },
         
@@ -44,13 +44,13 @@
         
         "LOG_CHANNEL": {
             "description":"Bot Logs Channel To Sending User Data & 4GB Premium Client To Use, Id Must Startswith -100",
-            "value": "",
+            "value": "-1004463404164",
             "required": true          
         },
         
         "DATABASE_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "",
+            "value": "mongodb+srv://kuttyanandan730_db_user:1RvP5cxbnsZ5tiNQ@cluster0.gqjni8o.mongodb.net/?appName=Cluster0",
             "required": true
         },
         
